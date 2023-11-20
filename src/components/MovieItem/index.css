@@ -1,0 +1,20 @@
+/* Write your CSS here */
+.thumb {
+  width: 275px;
+}
+.pop-cont {
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+  align-items: center;
+}
+.trigger-button {
+  border: none;
+  outline: none;
+  cursor: pointer;
+  background-color: transparent;
+  align-self: flex-end;
+}
+.video {
+  padding: 30px;
+}
